@@ -27,7 +27,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:#35495E;
+    color:white;
     border: solid#254845 1px;
     border-radius:20px;
     box-shadow: 7px -10px 7px rgba(0, 0, 0, 0.3); 
@@ -37,7 +37,5 @@ body{
     font-weight: bold;
     text-shadow: 2px -3px 4px rgba(0, 0, 0, 0.5);
   }
-  .image-container {
-    position: relative;
-  }
+ 
  
